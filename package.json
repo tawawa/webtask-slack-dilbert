@@ -1,0 +1,29 @@
+{
+  "name": "dilbert",
+  "version": "1.0.0",
+  "description": "Daily Dilbert strip",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tawawa/webtask-slack-dilbert.git"
+  },
+  "keywords": [
+    "dilbert",
+    "slack",
+    "webtask",
+    "auth0"
+  ],
+  "author": "arcseldon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tawawa/webtask-slack-dilbert/issues"
+  },
+  "homepage": "https://github.com/tawawa/webtask-slack-dilbert#readme",
+  "dependencies": {
+    "moment": "^2.11.2",
+    "request": "^2.78.0"
+  }
+}
